@@ -1,117 +1,59 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090F,50:19152B,100:5267D9&height=210&section=header&text=Meghna%20Pant&fontSize=48&fontColor=E8E7FF&animation=fadeIn&fontAlignY=38&desc=LEARNING%20TO%20BUILD%20THINGS%20THAT%20MATTER&descAlignY=60&descSize=12" width="100%" alt="Midnight-inspired profile banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080810,50:19152B,100:6265A8&height=200&section=header&text=Meghna%20Pant&fontSize=48&fontColor=F0EEFF&animation=fadeIn&fontAlignY=38&desc=COMPUTER%20SCIENCE%20%7C%20ROBOTICS&descAlignY=60&descSize=13" width="100%" alt="Midnight violet profile banner"/>
 
-### Welcome to my corner of the internet.
+### A little curiosity goes a long way.
 
-**Computer Science Student | Aspiring Developer**
+Second-Year Computer Science Student  
+Robotics Minor
 
-`CURIOUS BY NATURE. LEARNING BY BUILDING.`
-
-[Repositories](https://github.com/meghnapant-png?tab=repositories) · [GitHub Profile](https://github.com/meghnapant-png)
-
-</div>
-
----
-
-## About Me
-
-Hi, I'm Meghna, a computer science student exploring the world of software development.
-
-I enjoy learning how things work, experimenting with new ideas, and turning concepts into working projects. I'm still discovering the areas of computer science that interest me most, and I see every project as an opportunity to improve.
-
-Beyond programming, I'm drawn to creative digital aesthetics, atmospheric science fiction, and stories that explore the relationship between technology and reality.
-
-- Currently developing my programming skills.
-- Practicing problem-solving and logical thinking.
-- Exploring open-source software and collaborative development.
-- Learning how software and computer systems work behind the scenes.
-
----
-
-## Technical Toolkit
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css,git,github,vscode,linux&theme=dark" alt="Programming languages and development tools"/>
-
-</div>
-
-These icons are a starting point. I'll keep refining this section as I learn new technologies and gain practical experience.
-
----
-
-## Current Interests
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Programming Fundamentals
-
-Strengthening my understanding of programming, algorithms, and problem-solving.
-
-</td>
-<td width="50%" valign="top">
-
-### Software Projects
-
-Turning ideas into applications while learning to write cleaner, more maintainable code.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### Open Source
-
-Discovering community-driven projects and learning how developers collaborate.
-
-</td>
-<td width="50%" valign="top">
-
-### Systems and Technology
-
-Exploring the tools, operating systems, and technologies that power modern computing.
-
-</td>
-</tr>
-</table>
-
----
-
-## Project Archive
-
-I'm building my project portfolio one experiment at a time.
-
-This is where I document what I create, what I learn, and the problems I figure out along the way.
-
-<div align="center">
-
-<a href="https://github.com/meghnapant-png?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE%20REPOSITORIES-5267D9?style=for-the-badge&labelColor=11111B&logo=github&logoColor=FFFFFF" alt="Explore my repositories"/>
-</a>
+[GitHub](https://github.com/meghnapant-png) · [Repositories](https://github.com/meghnapant-png?tab=repositories)
 
 </div>
 
 ---
 
-## Beyond the Code
+### A little about me
 
-I'm drawn to atmospheric science fiction, unusual ideas, and digital worlds that blur the line between reality and imagination.
+Hi, I'm Meghna.
 
-That interest influences the visual style of this profile: midnight tones, minimal interfaces, and a little mystery.
+I'm a second-year Computer Science student with a minor in Robotics. I'm currently exploring programming, learning how technology works, and figuring out what I enjoy building.
+
+I'm interested in the intersection of software and robotics, and I'm looking forward to turning what I learn in class into practical projects.
+
+For now, I'm taking things one step at a time, learning through experimentation, and building my skills along the way.
+
+---
+
+### What I'm exploring
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,git,github,vscode&theme=dark" alt="Programming languages and developer tools"/>
+
+</div>
+
+Programming, robotics, problem-solving, and discovering new technologies.
+
+---
+
+### A few things I like
+
+- Understanding how things work behind the scenes.
+- Exploring the connection between software and robotics.
+- Learning by experimenting and building small projects.
+- Sci-fi, digital aesthetics, and ideas that make you think.
 
 ---
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=meghnapant-png&style=flat-square&color=8B83D9&label=PROFILE+VISITS" alt="Profile visitor counter"/>
+<img src="https://komarev.com/ghpvc/?username=meghnapant-png&style=flat-square&color=7774C8&label=PROFILE+VISITS" alt="Profile visit counter"/>
 
 <br/><br/>
 
-`AFTERDARK.exe`
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6265A8,50:19152B,100:080810&height=100&section=footer" width="100%" alt="Violet footer banner"/>
 
-*Still learning. Still building. Always exploring.*
+*Still learning. Slowly building. Seeing where it goes.*
 
 </div>
