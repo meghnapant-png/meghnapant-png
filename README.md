@@ -1,113 +1,96 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:071A12,100:00FF9C&height=200&section=header&text=MEGHNA%20PANT&fontSize=48&fontColor=00FF9C&animation=fadeIn&fontAlignY=38&desc=CONNECTED%20TO%20THE%20WIRED&descAlignY=60&descSize=16" width="100%" alt="Cyberpunk profile banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,50:102820,100:B88646&height=200&section=header&text=Meghna%20Pant&fontSize=48&fontColor=00FF9C&animation=fadeIn&fontAlignY=38&desc=curious%20mind%20%7C%20endless%20possibilities&descAlignY=60&descSize=14" width="100%" alt="Profile banner"/>
 
-### `SYSTEM BOOT: SUCCESS`
+### Hey there! 👋 Welcome to my little corner of GitHub.
 
 **Computer Science Student | Developer | Open Source Enthusiast**
 
-`INITIALIZING CURIOSITY...` · `BUILDING THE FUTURE...`
+*Somewhere between code, curiosity, and another world line.*
 
-<a href="https://github.com/meghnapant-png">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF9C" alt="GitHub"/>
-</a>
-<a href="https://github.com/meghnapant-png?tab=repositories">
-  <img src="https://img.shields.io/badge/PROJECTS-071A12?style=for-the-badge&logo=git&logoColor=00FF9C" alt="Projects"/>
-</a>
+[GitHub](https://github.com/meghnapant-png) · [My Repositories](https://github.com/meghnapant-png?tab=repositories)
 
 </div>
 
 ---
 
-## `01 // ABOUT ME`
+### A Little About Me
 
-```text
-USER       : MEGHNA PANT
-IDENTITY   : COMPUTER SCIENCE STUDENT
-STATUS     : LEARNING & BUILDING
-DIRECTIVE  : TURN IDEAS INTO CODE
-CONNECTION : ESTABLISHING...
-```
+Hi, I'm **Meghna**, a computer science student who enjoys learning how things work and turning ideas into projects.
 
-Hi! I'm **Meghna**, a computer science student exploring software development and the world of technology.
+I'm still exploring different areas of technology, figuring out what I enjoy most, and improving my skills one project at a time.
 
-- 🧠 Exploring programming and software engineering.
-- 💻 Building projects to turn ideas into working applications.
-- 🌐 Interested in open source and collaborative development.
-- 🐧 Exploring the tools and technologies that power modern computing.
-- 🎯 Goal: Keep learning, keep building, and contribute to meaningful projects.
+- 💻 Learning programming and building projects.
+- 🧠 Practicing problem-solving and algorithmic thinking.
+- 🌐 Exploring open-source software and collaboration.
+- 🐧 Interested in Linux and how systems work behind the scenes.
+- 🎧 Anime fan, especially *Serial Experiments Lain* and *Steins;Gate*.
+
+I believe the best way to learn is to stay curious, experiment, and keep building.
 
 ---
 
-## `02 // TECHNOLOGY INTERFACE`
-
-### Languages
+### Things I Work With
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css&theme=dark" alt="Programming language icons"/>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css,git,github,vscode,linux&theme=dark" alt="Programming languages and tools"/>
 
 </div>
 
-### Tools & Platforms
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" alt="Developer tool icons"/>
-
-</div>
-
-*Replace these icons with the technologies you actually use. Your profile should reflect your current skills, not just the skills you want to learn.*
+*I'm continuously learning, so this list will grow as I explore more technologies.*
 
 ---
 
-## `03 // MISSION LOG`
+### What I'm Exploring
 
-<div align="center">
-
-| Mission | Objective |
-|:---|:---|
-| `01` | Learn programming fundamentals |
-| `02` | Build and publish personal projects |
-| `03` | Practice problem-solving |
-| `04` | Explore open-source contributions |
-
-</div>
+- **Programming:** Strengthening my fundamentals and writing better code.
+- **Projects:** Turning ideas into useful applications.
+- **Open Source:** Learning how people collaborate to build software.
+- **Systems:** Understanding the tools and technologies behind our computers.
 
 ---
 
-## `04 // PROJECT DATABASE`
+### My Projects
+
+I'm working on growing my project portfolio. You can explore my repositories below and follow along as I build new things.
 
 <div align="center">
 
 <a href="https://github.com/meghnapant-png?tab=repositories">
-  <img src="https://img.shields.io/badge/ACCESS-PROJECT_DATABASE-00FF9C?style=for-the-badge&labelColor=071A12" alt="Explore projects"/>
+  <img src="https://img.shields.io/badge/Explore%20My%20Projects-00FF9C?style=for-the-badge&logo=github&logoColor=black&labelColor=101820" alt="Explore my projects"/>
 </a>
 
 </div>
 
-**Currently building my project portfolio.**
-
-This section will grow as I publish projects, experiment with new technologies, and develop my skills.
-
 ---
 
-## `05 // CONNECTION STATUS`
+### A Different World Line
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=meghnapant-png&style=flat-square&color=00FF9C&label=PROFILE+VISITS" alt="Profile visit counter"/>
+<img src="https://img.shields.io/badge/WORLD%20LINE-ECHO--001-B88646?style=for-the-badge&labelColor=101010" alt="Echo world line"/>
 
-<br/><br/>
+<img src="https://img.shields.io/badge/DIVERGENCE-1.048596%25-B88646?style=for-the-badge&labelColor=101010" alt="Steins Gate inspired divergence"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=071A12&height=2&section=footer" width="100%" alt="Green terminal divider"/>
+*Inspired by the strange digital atmosphere of Serial Experiments Lain and the world-line theories of Steins;Gate.*
 
-### `ALL SYSTEMS ARE A WORK IN PROGRESS`
+</div>
 
-*The Wired is waiting.*
+---
 
-**Keep exploring. Keep creating. Keep connecting.**
+### A Small Message Before You Go
 
-`END OF TRANSMISSION // 0xMEGHNA`
+> "No matter where you are, everyone is always connected."
+
+— *Serial Experiments Lain*
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=meghnapant-png&style=flat-square&color=00FF9C&label=CURIOUS+VISITORS" alt="Profile views"/>
+
+**Thanks for stopping by! Feel free to explore my projects. 🌱**
+
+*Still learning. Still experimenting. Always curious.*
 
 </div>
