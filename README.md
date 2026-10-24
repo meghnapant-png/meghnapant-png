@@ -20,11 +20,10 @@ Hi, I'm **Meghna**, a computer science student who enjoys learning how things wo
 
 I'm still exploring different areas of technology, figuring out what I enjoy most, and improving my skills one project at a time.
 
-- 💻 Learning programming and building projects.
-- 🧠 Practicing problem-solving and algorithmic thinking.
-- 🌐 Exploring open-source software and collaboration.
-- 🐧 Interested in Linux and how systems work behind the scenes.
-- 🎧 Anime fan, especially *Serial Experiments Lain* and *Steins;Gate*.
+- Learning programming and building projects.
+- Practicing problem-solving and algorithmic thinking.
+- Exploring open-source software and collaboration.
+- Interested in Linux and how systems work behind the scenes.
 
 I believe the best way to learn is to stay curious, experiment, and keep building.
 
