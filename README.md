@@ -113,32 +113,30 @@ Interested in understanding intelligent systems and the fundamentals of AI and m
 
 ---
 
-## GitHub Overview
-
 <div align="center">
 
-<a href="https://github.com/meghnapant-png">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=meghnapant-png&show_icons=true&hide_border=true&bg_color=100D1C&title_color=C9B5FF&text_color=E2DCEF&icon_color=A994E8&ring_color=A994E8" alt="GitHub statistics" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=B69CFF&center=true&vCenter=true&width=500&lines=EXPLORING+THE+TECH+UNIVERSE;DEBUGGING+IDEAS...;BUILDING+WHAT'S+NEXT." alt="Typing SVG" />
 
-<a href="https://github.com/meghnapant-png">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meghnapant-png&layout=compact&hide_border=true&bg_color=100D1C&title_color=C9B5FF&text_color=E2DCEF" alt="Most used programming languages" />
-</a>
+<br>
+
+<img src="https://img.shields.io/badge/STATUS-ALWAYS_LEARNING-171321?style=for-the-badge&labelColor=6E40C9" />
+<img src="https://img.shields.io/badge/MINDSET-THINK._BUILD._REPEAT.-171321?style=for-the-badge&labelColor=6E40C9" />
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=meghnapant-png&style=flat-square&color=75649A&label=PROFILE+VIEWS" alt="Profile views" />
+### `> A LITTLE CURIOSITY. A LOT OF POSSIBILITIES.`
+
+Exploring new technologies, experimenting with ideas,  
+and turning problems into opportunities to build something meaningful.
+
+<br>
+
+`[ CODE ]` &nbsp; `→` &nbsp; `[ CREATE ]` &nbsp; `→` &nbsp; `[ INNOVATE ]`
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6E40C9,50:9575CD,100:B8A1FF&height=3&section=footer" width="100%" />
 
 </div>
 
 ---
-
-<div align="center">
-
-### Always learning. Always exploring.
-
-*Building a little more understanding with every line of code.*
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:574779,50:9B87C9,100:100D1C" width="75%" alt="" />
-
-</div>
