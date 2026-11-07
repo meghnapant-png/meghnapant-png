@@ -1,0 +1,94 @@
+profile:
+  name: Meghna Pant | AI & Robotics
+  handle: meghnapant-png
+  alias: MEGHNA
+  motto: building intelligence, engineering the future
+  tagline: AI/ML · Robotics · IoT
+  school_line: B.Tech (Hons.) CSE · RV University
+  location: Bengaluru, IN
+  timezone: UTC+05:30
+  quote: big dreams. real builds. constant evolution.
+  bio: B.Tech (Hons.) CSE student at RV University, Bengaluru, majoring in Artificial Intelligence & Machine Learning with a minor in Robotics. I enjoy building practical projects that combine software, intelligent systems, and IoT.
+about:
+  statement: I’m exploring how AI, code, and physical systems come together to solve real-world problems.
+  detail: Currently strengthening my programming foundations while building hands-on projects in AI/ML, IoT, and robotics. I learn by experimenting, debugging, and turning ideas into working systems.
+  based_in: Bengaluru, India
+  studying: B.Tech (Hons.) CSE — AI/ML major, Robotics minor, RV University
+  now: C, C++, Python, Java and DSA fundamentals
+  research: AI/ML applications and intelligent systems
+  exploring: Robotics, embedded systems, IoT and practical AI projects
+backlog:
+- Strengthen DSA and problem-solving in C/C++
+- Build more AI/ML and robotics projects
+- Explore research and meaningful open-source contributions
+toolkit:
+  Languages:
+  - Python*
+  - C*
+  - C++*
+  - Java
+  - HTML
+  - CSS
+  AI / ML:
+  - Machine Learning*
+  - NumPy
+  - Pandas
+  - Jupyter
+  IoT and robotics:
+  - Arduino*
+  - ESP32
+  - Embedded systems
+  - Sensors
+  - Robotics
+  Tools:
+  - Git*
+  - GitHub*
+  - MySQL
+  - Cisco Packet Tracer
+  - Wireshark
+abyss:
+  here: '5'
+  L1:
+    step: Started B.Tech (Hons.) CSE at RV University
+    when: '2025'
+    cost: new city, new chapter
+  L2:
+    step: Chose AI/ML as my major and Robotics as my minor
+    when: '2025'
+    cost: learning never stops
+  L3:
+    step: Built foundations in C, C++, Python and Java
+    when: ONGOING
+    cost: practice, errors, repeat
+  L4:
+    step: Started hands-on IoT and embedded projects
+    when: '2026'
+    cost: wires, sensors and debugging
+  L5:
+    step: Working on Smart Cricket IoT Arena, WiFi Merger and Filevo
+    when: '2026'
+    cost: ideas becoming real builds
+  L6:
+    step: Exploring AI/ML research and robotics applications
+    when: NEXT
+    cost: curiosity keeps me moving
+  L7:
+    step: The next level is still unwritten.
+    when: ?????
+    cost: watch this space
+signal:
+  divergence: '1.238723'
+pinned_overrides: {}
+system:
+  user: meghnapant
+  host: rvu-student
+  os: macOS
+  kernel: Apple Silicon
+  machine: Mac
+  desktop: macOS
+  shell: Terminal
+  cpu: Apple Silicon
+  gpu: Apple integrated graphics
+  memory: —
+  filesystem: APFS
+  synced: '2026-11-07'
