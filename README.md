@@ -1,142 +1,92 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=MEGHNA%20PANT&fontSize=48&fontColor=E9E2FF&stroke=9B87C9&strokeWidth=1&color=0:100D1C,50:29213F,100:574779&animation=fadeIn&fontAlignY=45&desc=COMPUTER%20SCIENCE%20%7C%20ROBOTICS&descSize=15&descAlignY=65&descColor=C9BCEB" width="100%" alt="Meghna Pant profile banner" />
+<img src="assets/hero.svg" alt="Meghna Pant, CS and Robotics student" width="100%"/>
 
-### Computer Science Student | Robotics Minor
+<br/>
 
-*Exploring code, understanding systems, building step by step.*
+<img src="assets/marquee.svg" alt="Tech stack: C, C++, Python, Java, HTML, CSS, TypeScript, Arduino, Raspberry Pi, Wireshark, Cisco, Git, GitHub, VS Code, Figma, Canva" width="100%"/>
 
-<br>
+<br/>
 
-<img src="https://img.shields.io/badge/FOCUS-Computer%20Science-574779?style=flat-square" alt="Computer Science" />
-<img src="https://img.shields.io/badge/INTEREST-Robotics-8B7BB5?style=flat-square" alt="Robotics" />
+<img src="https://img.shields.io/badge/FOCUS-Computer%20Science-7C3AED?style=for-the-badge&labelColor=0C1226" alt="Focus: Computer Science"/>
+<img src="https://img.shields.io/badge/MINOR-Robotics-22D3EE?style=for-the-badge&labelColor=0C1226" alt="Minor: Robotics"/>
+<img src="https://img.shields.io/badge/STATUS-Always%20Learning-F472B6?style=for-the-badge&labelColor=0C1226" alt="Status: always learning"/>
 
-</div>
+<br/><br/>
 
----
+<img src="assets/h-about.svg" alt="About" width="100%"/>
 
-## About Me
-
-I'm **Meghna Pant**, a second-year Computer Science student minoring in Robotics.
-
-I'm developing my programming skills and exploring how software, hardware, and networks work together. I enjoy learning new concepts, experimenting with technology, and building a strong foundation through practice.
-
-- Studying Computer Science with a minor in Robotics
-- Learning C, C++, Python, and Java
-- Exploring web technologies, networking, and network analysis
-- Interested in embedded systems, IoT, and robotics
-- Focused on continuous learning and practical problem-solving
-
----
-
-## Technical Skills
-
-### Programming Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java&theme=dark" alt="C, C++, Python and Java" />
-</p>
-
-### Web Technologies
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css&theme=dark" alt="HTML and CSS" />
-</p>
-
-### Embedded Systems & IoT
-
-<p>
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" alt="Arduino and Raspberry Pi" />
-</p>
-
-### Networking & Network Analysis
-
-<p>
-  <img src="https://img.shields.io/badge/Wireshark-Network%20Analysis-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/Cisco-Networking-049FD9?style=flat-square&logo=cisco&logoColor=white" alt="Cisco Networking" />
-</p>
-
-- Network traffic analysis
-- Network protocol analysis
-- Networking fundamentals
-
-### Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,canva&theme=dark" alt="Git, GitHub, VS Code, Figma and Canva" />
-</p>
-
-- **Development:** Visual Studio Code, Git
-- **Version Control:** GitHub
-- **Design & Creativity:** Figma, Canva
-- **Network Analysis:** Wireshark
-- **Networking:** Cisco tools and technologies
-
----
-
-## Areas of Interest
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-### Software Development
-
-Exploring programming concepts, software design, and practical problem-solving.
-
+<table width="100%">
+<tr>
+<td width="250" valign="top" align="center">
+<img src="assets/pfp-ring.svg" alt="Meghna Pant" width="250"/><br/>
+<img src="assets/id-bottom.svg" alt="Meghna Pant, meghnapant-png, online" width="250"/>
 </td>
-    <td width="50%" valign="top">
-
-### Robotics & Embedded Systems
-
-Interested in how software interacts with hardware, sensors, and connected devices.
-
+<td valign="top">
+<img src="assets/about.svg" alt="About me: 2nd-year CS student with a Robotics minor, learning C, C++, Python and Java, building WIFI_MERGER and FILEVO" width="100%"/>
 </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-### Networking
-
-Learning about network protocols, communication, and traffic analysis.
-
-</td>
-    <td width="50%" valign="top">
-
-### Artificial Intelligence
-
-Interested in understanding intelligent systems and the fundamentals of AI and machine learning.
-
-</td>
-  </tr>
+</tr>
 </table>
 
----
+<br/>
 
-<div align="center">
+<img src="assets/h-now.svg" alt="Now" width="100%"/>
+<img src="assets/now.svg" alt="Learning C, C++, Python and Java. Building WIFI_MERGER and FILEVO. Exploring embedded systems, IoT and AI." width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=B69CFF&center=true&vCenter=true&width=500&lines=EXPLORING+THE+TECH+UNIVERSE;DEBUGGING+IDEAS...;BUILDING+WHAT'S+NEXT." alt="Typing SVG" />
+<br/><br/>
 
-<br>
+<img src="assets/h-skills.svg" alt="Skills" width="100%"/>
+<img src="assets/skills.svg" alt="Skills: C, C++, Python, Java, HTML, CSS, TypeScript, Arduino, Raspberry Pi, Wireshark, Cisco, Git, GitHub, VS Code, Figma, Canva" width="100%"/>
 
-<img src="https://img.shields.io/badge/STATUS-ALWAYS_LEARNING-171321?style=for-the-badge&labelColor=6E40C9" />
-<img src="https://img.shields.io/badge/MINDSET-THINK._BUILD._REPEAT.-171321?style=for-the-badge&labelColor=6E40C9" />
+<br/><br/>
 
-<br><br>
+<img src="assets/h-projects.svg" alt="Projects" width="100%"/>
 
-### `> A LITTLE CURIOSITY. A LOT OF POSSIBILITIES.`
+<a href="https://github.com/meghnapant-png/WIFI_MERGER"><img src="assets/card-wifi.svg" alt="WIFI_MERGER: a parallel downloading application using multiple network connections" width="49%"/></a>
+<a href="https://github.com/meghnapant-png/FILEVO"><img src="assets/card-filevo.svg" alt="FILEVO: a Python project" width="49%"/></a>
 
-Exploring new technologies, experimenting with ideas,  
-and turning problems into opportunities to build something meaningful.
+<br/><br/>
 
-<br>
+<img src="assets/h-interests.svg" alt="Interests" width="100%"/>
+<img src="assets/interests.svg" alt="Interests: software development, robotics and embedded systems, networking, AI and ML" width="100%"/>
 
-`[ CODE ]` &nbsp; `→` &nbsp; `[ CREATE ]` &nbsp; `→` &nbsp; `[ INNOVATE ]`
+<br/><br/>
 
-<br>
+<img src="assets/h-activity.svg" alt="Activity" width="100%"/>
+<img src="assets/snake.svg" alt="Animated snake eating a contribution graph" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6E40C9,50:9575CD,100:B8A1FF&height=3&section=footer" width="100%" />
+<!--
+Optional: to show your REAL contribution graph instead of the built-in snake,
+run the "Generate contribution snake" workflow once (Actions tab), then swap the
+snake.svg line above for this block:
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/meghnapant-png/meghnapant-png/output/snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/meghnapant-png/meghnapant-png/output/snake.svg"/>
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/meghnapant-png/meghnapant-png/output/snake-dark.svg" width="100%"/>
+</picture>
+-->
+
+<br/><br/>
+
+<img src="assets/tagline.svg" alt="Turning curiosity into circuits and code: code, create, innovate" width="100%"/>
+
+<br/><br/>
+
+<img src="assets/h-contact.svg" alt="Connect" width="100%"/>
+
+<br/>
+
+<a href="mailto:mghnant1316@gmail.com"><img src="assets/btn-email.svg" alt="Email" height="48"/></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/meghna-pant-443145374/"><img src="assets/btn-linkedin.svg" alt="LinkedIn" height="48"/></a>
+&nbsp;
+<a href="https://www.instagram.com/mghnant_2387/"><img src="assets/btn-instagram.svg" alt="Instagram" height="48"/></a>
+&nbsp;
+<a href="https://github.com/meghnapant-png"><img src="assets/btn-github.svg" alt="GitHub" height="48"/></a>
+
+<br/><br/>
+
+<img src="assets/footer.svg" alt="Thanks for stopping by. Always up for building something together." width="100%"/>
 
 </div>
-
----
